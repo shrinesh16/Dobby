@@ -14,3 +14,8 @@ Its pissing me off that i dont have enough resourse to develop ha highly intelig
 
 going to integrate a JARVIS or FRIDAY style device hop Ai agent with consistent memory
 one single memory that can jump between devices
+
+
+timesFM
+open sourse global data
+world sim
