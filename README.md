@@ -19,3 +19,4 @@ one single memory that can jump between devices
 timesFM
 open sourse global data
 world sim
+multi skilled agent
