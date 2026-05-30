@@ -19,5 +19,5 @@ one single memory that can jump between devices
 
 timesFM
 open sourse global data
-world sim
+connected with mythrion
 multi skilled agent
